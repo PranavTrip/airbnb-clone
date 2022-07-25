@@ -32,6 +32,10 @@
     padding: 10px;
 }
 
+.searchIcon{
+    cursor: pointer !important;
+}
+
 .header_right{
     display: flex;
     justify-content: space-between;
