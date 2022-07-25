@@ -3,7 +3,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import LanguageIcon from "@mui/icons-material/Language";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import Avatar from "@mui/material/Avatar";
-import "./css/Header.css";
+import "../css/Header.css";
 import { Link } from "react-router-dom";
 
 const Header = () => {

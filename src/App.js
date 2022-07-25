@@ -1,9 +1,9 @@
 import "./App.css";
-import Footer from "./Footer";
-import Header from "./Header";
-import Home from "./Home";
+import Footer from "./Components/Footer";
+import Header from "./Components/Header";
+import Home from "./Components/Home";
 import {BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import SearchPage from "./SearchPage";
+import SearchPage from "./Components/SearchPage";
 
 function App() {
   return (
